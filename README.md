@@ -1,5 +1,6 @@
 # Late-Time-Cosmology-Of-Scalar-Tensor-Theories
-Dedicated for evaluating various statefinders and comparing results with ΛCDM model
+Dedicated for evaluating various statefinders and comparing results with ΛCDM model:
+
 The available Mathematica code serves as a tool in order to study the late-time era for a modified gravity model. As a general model, an f(R,φ) gravity was chosen
 along with a canonical scalar field and a non-minimal coupling between the scalar field and the Gauss-Bonnet topological invariant. As a model, we study the case 
 of an f(R) gravity with only a kinetic term for the potential, which can be found in the two available arXiv papers present in the code. The user is capable of studying 
